@@ -19,6 +19,10 @@ p {
   border-radius: 0;
 }
 
+.card :hover {
+  background-color: red;
+}
+
 .content-width {
   max-width: 1200px;
   margin: 0 auto;
